@@ -37,13 +37,13 @@
 
 ## 📊 GitHub Stats
 
-![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaALMidani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaALMidani&layout=compact&theme=radical)
+![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyatAlbakr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyatAlbakr&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=AlaaALMidani&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=AyatAlbakr&color=blue)
 
 ---
 
