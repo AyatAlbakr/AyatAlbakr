@@ -49,7 +49,7 @@
 
 ## 🤝 Let's Connect!
 - 📧 Email: [ayatbkr227@gmail.com](mailto:ayatbkr227@gmail.com)
-- 💼 LinkedIn: [Ayat AL-Bakr](www.linkedin.com/in/ayat-al-bakr)
+- 💼 LinkedIn: [Ayat AL-Bakr](https://www.linkedin.com/in/ayat-al-bakr/)
 )
 - 🌐 Portfolio: *(Link to your portfolio website, if any)*
 
